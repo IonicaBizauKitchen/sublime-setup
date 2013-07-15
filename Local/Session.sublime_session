@@ -1,13 +1,17 @@
 {
 	"folder_history":
 	[
+		"/Users/zeke/Library/Application Support/Sublime Text 3/Packages/Base16",
+		"/Users/zeke/Downloads/Sublime Text 3",
+		"/Users/zeke/code/personal/queriac-crossrider",
+		"/Users/zeke/code/personal/dotfiles"
 	],
 	"last_version": 3047,
-	"last_window_id": 2,
+	"last_window_id": 16,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 480.0,
+		"new_window_height": 852.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -19,11 +23,15 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 0.0,
+				"height": 49.0,
 				"selected_items":
 				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
 				],
-				"width": 0.0
+				"width": 435.0
 			},
 			"console":
 			{
@@ -43,11 +51,16 @@
 			},
 			"file_history":
 			[
-				"/Users/zeke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+				"/Users/zeke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/zeke/Downloads/Sublime Text 3/Packages/Theme - Soda/Soda Dark.sublime-theme",
+				"/Users/zeke/code/personal/dotfiles/zshrc",
+				"/Users/zeke/code/personal/dotfiles/bash_profile",
+				"/Users/zeke/Downloads/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/zeke/code/personal/dotfiles/make_symlinks.rb"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 30.0
 			},
 			"find_in_files":
 			{
@@ -61,6 +74,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"PATH"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -86,7 +100,7 @@
 			"menu_visible": true,
 			"replace":
 			{
-				"height": 0.0
+				"height": 56.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -113,6 +127,172 @@
 				],
 				"width": 0.0
 			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 304.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1440.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 49.0,
+				"selected_items":
+				[
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 435.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/zeke/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/zeke/Downloads/Sublime Text 3/Packages/Theme - Soda/Soda Dark.sublime-theme",
+				"/Users/zeke/code/personal/dotfiles/zshrc",
+				"/Users/zeke/code/personal/dotfiles/bash_profile",
+				"/Users/zeke/Downloads/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/zeke/code/personal/dotfiles/make_symlinks.rb"
+			],
+			"find":
+			{
+				"height": 30.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"PATH"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "276 197 888 502 0 0 1440 878 ",
+			"project": "",
+			"replace":
+			{
+				"height": 56.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
@@ -121,12 +301,10 @@
 			"status_bar_visible": true,
 			"template_settings":
 			{
-			}
-		},
-		"new_window_width": 640.0
-	},
-	"windows":
-	[
+			},
+			"window_id": 15,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{

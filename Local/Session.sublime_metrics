@@ -1,5 +1,15 @@
 {
-	"licensed": false,
-	"startup_sec": 4.024617,
-	"time": 0
+	"licensed": true,
+	"packages":
+	[
+		"Theme - Soda"
+	],
+	"startup_sec": 0.231608,
+	"syntax":
+	{
+		"JSON": 31,
+		"Plain text": 6,
+		"Shell-Unix-Generic": 24
+	},
+	"time": 1373834513
 }

@@ -1,3 +1,34 @@
 {
-	"font_size": 16
+	"auto_complete": true,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Base16/base16-tomorrow.dark.tmTheme",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.sassc",
+		"*.scssc",
+		".DS_Store"
+	],
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"tmp",
+		".sass-cache",
+		".DS_Store",
+		"components"
+	],
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 15.0,
+	"highlight_line": true,
+	"line_numbers": false,
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
 }
